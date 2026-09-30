@@ -1,0 +1,9 @@
+[package]
+name = "mira-emu"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+mira-cpu.workspace = true
+mira-asm.workspace = true
