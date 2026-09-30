@@ -5,6 +5,9 @@ version = 4
 [[package]]
 name = "mira-asm"
 version = "0.0.1"
+dependencies = [
+ "mira-cpu",
+]
 
 [[package]]
 name = "mira-cpu"
